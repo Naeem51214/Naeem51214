@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Naeem51214
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there 👋, I'm Syed Naeem Naqvi
 
-<!---
-Naeem51214/Naeem51214 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I manage and build data-driven product evaluation systems and web utilities.
+
+### 🌐 Featured Project
+* **Website:** [Syed Shoppe](https://syedshoppe.com)
+* **Focus:** Data-driven product reviews, hardware spec comparisons, and buying guides for smart home tech and consumer electronics.
+
+### 🛠️ What I Work On
+* **Product Spec Frameworks:** Building structured comparison templates and evaluation routines.
+* **SEO & Web Development:** Optimizing performance, layout structures, and schema markup for web applications.
+
+---
+📬 **Connect with me:**
+- Website: [https://syedshoppe.com](https://syedshoppe.com)
